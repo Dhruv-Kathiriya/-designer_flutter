@@ -13,7 +13,7 @@ void main() {
             "🛍  List of Fruist",
             style: TextStyle(
               fontWeight: FontWeight.bold,
-              color: Colors.amberAccent,
+              color: Colors.white,
             ),
           ),
         ),
